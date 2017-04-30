@@ -28,7 +28,7 @@ fscrawler.bat project
 ```sh
 "url" : "C:/Documents",
 ```
-* Create a Directory Documents in C drive, and load it with files which you want to index.
+* Create a directory Documents in `C:` drive, and load it with files which you want to index.
 * Again run fscrawler
 ```sh
 fscrawler.bat project
