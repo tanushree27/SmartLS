@@ -8,6 +8,7 @@ This Application (C#, WPF, Visual Studio) helps to search local documents using 
 
 * [Setup Elasticsearch 5.3.2](#setup-elasticsearch)
 * [Setup FSCrawler 2.3 SNAPSHOT](#setup-fscrawler)
+##
 
 ### Setup Elasticsearch
 
