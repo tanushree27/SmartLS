@@ -39,6 +39,3 @@ fscrawler.bat project
 For more info visit [FSCrawler](https://github.com/dadoonet/fscrawler).
 
 
-# Team
-* [Tanushree Tumane](https://github.com/tanushree27)
-* [Yash Bhatambare](https://github.com/yashb5)
